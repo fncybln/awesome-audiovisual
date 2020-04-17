@@ -54,6 +54,7 @@ Question? Leave it in the [General Discussion issue.](https://github.com/stingal
 - [Open Lighting Architecture](https://www.openlighting.org/ola/) - `✓ open-source` A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola)
 - [QLC+](https://www.qlcplus.org/) - `✓ open-source` QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus)
 - [xLights](https://xlights.org/) - `✓ open-source` Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights)
+- [luminosus](https://github.com/ETCLabs/LuminosusEosEdition) - `✓ open-source` is a node-based lighting control software, wich can be used as a companion app for etc eos using osc and sound-to-light controls. Can be used to connect an midi-controller to eos.
 
 ### Visualizers
 
